@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #e9e9e9;
+}
+
+
+.logo{
+    background-color: #a8160a;
+    padding: 40px;
+    width: 60pc;
+    margin: auto;
+    margin-bottom: 4px;
+}
+
+.opcao{
+    text-align: center;
+    
+}
+
+.opcao1, .opcao2, .opcao3{
+       text-decoration: none;
+       padding: 40px;
+       font-size: 32px;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       color: #fff;
+}
+
+.opcao a:hover{
+    text-decoration: underline;
+}
+
+
+
+.logo2{
+    background-color: #000;
+    width: 65pc;
+    margin: auto;
+    display: flex;
+    gap: 7px;
+    
+    
+
+}
+
+.introducao{
+   padding-top: 80px;
+}
+
+
+
+.titulo-texto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+.texto{
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #a8160a;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.titulo-texto1{
+    color: #fff;
+}
+
+.container{
+
+}
+
+.biografia{
+     font-size: 30px;
+     text-align: center;
+   color: #fff;
+
+}
+
+.texto2{
+   color: #fff;
+}
+
+
+
